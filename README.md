@@ -22,7 +22,3 @@ It generates strong and secure passwords based on user-defined length and criter
 4. Run the following command:
 
 python password_generator.py
-
-## 👩‍💻 Author
-Diksha  
-CodSoft Internship
